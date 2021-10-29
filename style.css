@@ -1,0 +1,78 @@
+body{
+	font-family: 'Gotham';
+}
+td{
+	width: 33.3%;
+}
+h2,h3,h4,h5,h6{
+	font-weight: 300;
+}
+h4.doctor-name{
+	font-weight: 400;
+}
+h1{
+	font-size: 350%;
+}
+.container-fluid{
+	padding: 1rem;
+}
+.table{
+	height: 300px;
+}
+.table thead th{
+	font-weight: 500;
+	font-size: 2rem;
+	border-bottom: none !important;
+}
+.table td, .table th{
+	vertical-align: middle !important;
+	border-top:none !important;
+}
+.bg-yellow{
+	background-color: #FFD74B;
+}
+.bg-blue{
+	background-color: #313B6A;
+}
+.bg-red{
+	background-color: #ED1C24;
+}
+.bg-green{
+	background-color:#00A651;
+}
+.bg-pink{
+	background-color:#FFF4DB;
+}
+.bg-orange{
+	background-color:#F7941D;
+}
+.yellow-font{
+	color: #FFD74B;
+}
+.blue-font{
+	color: #313B6A;
+}
+.red-font{
+	color: #ED1C24;
+}
+.green-font{
+	color: #00A651;
+}
+.orange-font{
+	color: #F7941D;
+}
+.white-font{
+	color: #FFF4DB;
+}
+.doctor-info td:first-child{
+width: 30%;
+}
+.doctor-info td:last-child{
+width: 70%;
+}
+.doctor-info{
+	width: 100%;
+}
+.table-top{
+	border:1.5rem solid #fff;
+}
